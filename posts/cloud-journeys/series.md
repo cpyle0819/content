@@ -4,4 +4,5 @@ description: "A series that thinks about building production applications and ev
 navigationBars: none
 posts:
   - 01-serverless-image-recognition-app
+  - 02-feedback-sentiment-analyzer-app
 --- 
